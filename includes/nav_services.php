@@ -23,7 +23,7 @@
                             <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="./services-building-commissioning.php">Building Commissioning</a></li>
+                                    <li><a href="./services-building-commissioning.php">Building &amp; Industrial Commissioning</a></li>
                                     <li><a href="./services-industrial-commissioning.php">Industrial Commissioning</a></li>
                                     <li><a href="./services-measurement-and-verification.php">Measurement and Verification</a></li>
                                     <li><a href="./services-energy-performance.php">Energy Performance</a></li>

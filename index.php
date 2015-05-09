@@ -49,7 +49,7 @@
 				
 				<!-- Building Commissioning Box on Home Page -->
                 <div class="span3">
-					<a href="#" class="revealBuilding"><img src="img/building-commissioning.png" alt="Building Commissioning Home Page Picture"></a>
+					<a href="#" class="revealBuilding"><img src="img/building-and-industrial-cx.jpg" alt="Building Commissioning Home Page Picture"></a>
                 </div>  
 				<div class="containerBuilding">
 					<div id="innerBuilding">
@@ -71,11 +71,11 @@
                 
 				<!-- Industrial Commissioning Box on Home Page -->
 				<div class="span3">
-                    <a href="#" class="revealIndustrial"><img src="img/industrial-commissioning.png" alt="Industrial Commissioning Sliding Up Picture"></a>
+                    <a href="#" class="revealIndustrial"><img src="img/retrofit-design.png" alt="Industrial Commissioning Sliding Up Picture"></a>
                 </div>
 				<div class="containerIndustrial">
 					<div id="innerIndustrial">
-						<a href="#" class="revealIndustrial"><img src="img/industrial-cx-inside.png" alt="Industrial Commissioning Inner Picture"></a>
+						<a href="#" class="revealIndustrial"><img src="img/retrofit-design-inside.png" alt="Industrial Commissioning Inner Picture"></a>
 						<br>
 						<p>We have commissioned some of the largest heat and power generation plants and are well positioned as QA and QC expects for almost any industrial process</p>
 						<br>
@@ -117,7 +117,7 @@
 						<br>
 						<p>We continuously push boundaries in a field of energy simulation and data analysis</p>
 						<br>
-						<a href="./services-incentive-management.php" rel="has-dotts">Incentives Management</a>
+						<a href="./services-incentive-management.php" rel="has-dotts">Incentive Management</a>
 						<br>
 						<a href="./services-energy-studies.php" rel="has-dotts">Energy Studies</a>
 						<br>
@@ -136,7 +136,7 @@
 				
 				<!-- Continuous Optimization Box on Home Page -->
 				<div class="span3">            
-                    <a href="#" class="revealContinuous"><img src="img/continuous-optimization.png" alt="Continuous Optimization Sliding Up Picture"></a>
+                    <a href="#" class="revealContinuous"><img src="img/ongoing-cx.jpg" alt="Continuous Optimization Sliding Up Picture"></a>
                 </div>
 				<div class="containerContinuous">
 					<div id="innerContinuous">
@@ -157,19 +157,24 @@
 								
 				<!-- Retrofit Design Box on Home Page -->
                 <div class="span3">    
-                    <a href="#" class="revealRetrofit"><img src="img/retrofit-design.png" alt="Retrofit Design Sliding Up Picture"></a>
+                    <a href="#" class="revealRetrofit"><img src="img/asset-mngmt.jpg" alt="Retrofit Design Sliding Up Picture"></a>
                 </div>
 				<div class="containerRetrofit">
 					<div id="innerRetrofit">
-						<a href="#" class="revealRetrofit"><img src="img/retrofit-design-inside.png" alt="Retrofit Design Inner Picture"></a>
+						<a href="#" class="revealRetrofit"><img src="img/asset-mngmt-design-inside.png" alt="Retrofit Design Inner Picture"></a>
 						<br>
-						<p>We provide full package mechanical and electrical design services</p>
+						<p>We take a leading edge approach to asset management for both optimizing the 
+							performance of buildings and their systems as well as through continuous monitoring and the 
+							establishment of corporate memory through the conservation of information.</p>
 						<br>
-						<a href="./services-retrofit-design.php" rel="has-dotts">Retrofit Design</a>
+						<ul>
+							<li>Asset Maintenance</li>
+							<li>Bilding and Building System Life Cycles</li>
+							<li>KPI - Evaluation of Conditions</li>
+							<li>Documentation and Corporate Memory</li>
+							<li>Technology - Asset Management and Performance Indices</li>
+						</ul>
 						<br>
-						<a href="./services-new-constriction-design.php" rel="has-dotts">New Construction Design</a>
-						<br>
-						<a href="./services-design-build-projects.php" rel="has-dotts">Design Build Projects</a>
 					</div>
 				</div><!-- Retrofit Design Box on Home Page - END BOX -->
 

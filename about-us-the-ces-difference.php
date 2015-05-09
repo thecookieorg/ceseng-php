@@ -15,12 +15,14 @@
                 <?php include('includes/sidebar_nav_about_us.php'); ?>
 				<div class="span8 margin_main_container">
 					<div class="title_bkgd">
-						<h1>The CES Difference</h1>
+						<h1>The C.E.S. Difference</h1>
 					</div>
 					<img src="img/the-ces-difference.png" class="main_picture" alt="The CES Difference">
 						<h4>Synergy</h4>
 						<p>
-							Our core services (total building commissioning, energy systems measurements and verifications, energy analysis and modeling) interact synergistically facilitating the holistic approach to the building systems commissioning. 
+							Our core services (total building commissioning, energy systems measurements 
+							and verifications, energy analysis and modeling) interact synergistically 
+							facilitating the holistic approach to the building systems commissioning. 
 						</p>
 						<h4>Total Building Commissioning</h4>
 						<p>	
@@ -28,21 +30,21 @@
 						</p>
 						<h4>Combination of Design and “Hands on” Commissioning Experience</h4>
 						<p>
-							We provide expert engineering consulting and hands-on commissioning services in all phases of commissioning process. We possess all testing instruments required for hands on testing and verifications of HVAC and other building systems. Existing and/or new facility systems performance surveys are completed with in-house testing and measuring tools and manpower. 
+							We provide expert engineering consulting and hands-on commissioning services in all phases of the commissioning process. We have all testing instruments required for hands on testing and verification of HVAC and other building systems. Existing and/or new facility systems performance surveys are completed with in-house testing, measuring tools and manpower.
 						</p>
 						<h4>Retrofit Design Services</h4>
 						<p>	
-							Our personnel experience includes over hundred of retrofit projects, ranging from simple tenant improvements to complex multi-million dollar projects. We provide full range of mechanical and electrical engineering services (reports, feasibility studies, design), building permits and tendering services, preparation of construction documents, project management services, review of the construction progress and quality assurance, advise on payments, project costs control and budgets estimates, advise on various aspects of construction contracts, expertise in managing and administrating incentive applications.
+							Our personnel experience includes over one hundred retrofit projects, ranging from simple tenant improvements to complex multi-million dollar projects. We provide a full range of mechanical and electrical engineering services (reports, feasibility studies, design), building permits and tendering services, preparation of construction documents, project management services, review of the construction progress and quality assurance, advice on payments, project cost control and budget estimates, advice on various aspects of construction contracts as well as expertise in managing and administrating incentive applications.
 						</p>
 						<h4>Energy Studies and Energy Modeling</h4>
 						<p>	
-							C.E.S. Engineering possesses comprehensive knowledge and experience in a variety of energy modeling computer programs and in creating calibrated energy simulations. We have created custom-made calculation tools to improve and streamline the analysis process, which utilizes inverse modeling techniques. The company portfolio includes energy study and modeling services for health care and research laboratory facilities, and commercial and residential buildings.
+							C.E.S. Engineering possesses comprehensive knowledge and experience in a variety of energy modeling computer programs and in creating calibrated energy simulations. We have created custom-made calculation tools to improve and streamline the analysis process, which utilizes inverse modeling techniques. The company portfolio includes energy study and modeling services for health care and research laboratory facilities, as well as commercial and residential buildings.
 						</p>
 						<h4>Performance Measurement and Verification Specialization</h4>
 						<p>
-							C.E.S. Engineering is an industry leader in building systems sub-metering, data collection, reporting and analysis. The company provides comprehensive measurement and verification services in line with LEED M&V credit requirements, following key M&V guidelines and protocols. Our M&V services portfolio projects includes health care facilities, research laboratories, post secondary, secondary and primary schools, institutional buildings.
+							C.E.S. Engineering is an industry leader in building systems sub-metering, data collection, reporting and analysis. The company provides comprehensive measurement and verification services in line with LEED M&amp;V credit requirements, following key M&amp;V guidelines and protocols. Our M&amp;V services portfolio projects includes health care facilities, research laboratories, post-secondary, secondary and primary schools and institutional buildings.
 						<br>
-							We have provided M&V services in line with:
+							We have provided M&amp;V services in line with:
 							<ul>
 								<li>
 									Option B (retrofit isolation) from the 2002 International Performance Measurement and Verification Protocol (IPMVP) Volume I, concept and options for determining energy and water savings
@@ -66,7 +68,7 @@
 							All our commissioning providers have experience in building systems design. 
 						</p>
 						<p>	
-							Our principals give commissioning presentation and training on technical colleges and industry programs.
+							Our principals give commissioning presentations and training at technical colleges and for industry programs.
 						</p>
 						<h4>Industry Affiliations</h4>
 						<p>

@@ -19,13 +19,33 @@
 					</div>
 					<img src="img/services/1.png" class="main_picture" alt="Services Picture">
 					<p>
-						C.E.S. Engineering Ltd is a multidisciplinary engineering company with offices in Vancouver, BC and Toronto, ON.  With over twenty specialized commissioning providers we are now positioned as one of the largest independent national commissioning companies in Canada. The company has been providing comprehensive performance engineering services for over thirteen years. Our mission is to provide optimized, documented facility and systems operation using our core services: Total Building Commissioning, Performance Measurement and Verification, Energy Analysis and Modeling and Retrofit Design. <br/>
+						C.E.S. Engineering Ltd is a multidisciplinary engineering company with offices in 
+						Vancouver (BC), Toronto (ON) and Montreal (QC). 
+						With over twenty specialized commissioning providers we are now 
+						positioned as one of the largest independent national commissioning companies in Canada. 
+						The company has been providing comprehensive performance engineering 
+						services for over thirteen years. Our mission is to provide optimized, 
+						documented facility and systems operation using our core services: 
+						Total Building Commissioning, Performance Measurement and Verification, 
+						Energy Analysis and Modeling and Retrofit Design. <br/>
 						<br>
-						C.E.S. Engineering’s subsidiary company, eco OPERA Systems Inc., provides solutions for facility energy management, active energy efficiency monitoring and performance optimization. The company utilizes a proprietary Energy Management Information System as a framework for systems and buildings performance monitoring, targeting and reporting.<br/>
+						C.E.S. Engineering’s subsidiary company, eco OPERA Systems Inc., provides solutions for
+						facility energy management, active energy efficiency monitoring and performance 
+						optimization. The company utilizes a proprietary Energy Management Information System 
+						as a framework for systems and buildings performance monitoring, 
+						targeting and reporting.<br/>
 						<br>
-						C.E.S. Engineering participates in multiple energy savings and technology incentive program. We are working with Federal, Provincial and Municipal Government and Utility groups on implementation and/or creation of various rebate programs. We invest continuously in research and development relating to building systems operation optimization. CES Engineering is receiving federal and provincial tax incentives from the Scientific Research and Experimental Development (SR&ED) program for experimental work in the field of active energy efficiency and monitoring based commissioning. <br/>
+						C.E.S. Engineering participates in multiple energy savings and technology 
+						incentive programs. We are working with Federal, Provincial and Municipal 
+						Government and Utility groups on implementation and/or creation of various 
+						rebate programs. We invest continuously in research and development relating to 
+						building systems operation optimization. C.E.S. Engineering is receiving federal 
+						and provincial tax incentives from the Scientific Research and Experimental 
+						Development (SR&amp;ED) program for experimental work in the field of active
+						 energy efficiency and monitoring based commissioning. <br/>
 						<br>
-						We are also awarded government funds from Industry Research Assistance Program for our project on developing alternatives to building systems energy sub-metering.<br/> 
+						We have also been awarded government funds from the Industry Research Assistance Program(IRAP) for our 
+						project on developing alternatives to building systems energy sub-metering.<br/> 
 					</p>
                 </div>
             </div>	
