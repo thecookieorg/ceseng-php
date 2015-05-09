@@ -26,8 +26,8 @@
 					
 					<img src="img/people/homay.jpg" style="width:200px;" class="picture_position" alt="Homayoun Khatami CES Engineering">
 						
-					<div class="employee_info"><strong>HOMAYOUN KHATAMI</strong> :: M.A, B. Eng., CEM, PMP, CMC - LEED AP O&amp;M :: ENERGY EFFICIENCY ENGINEER</div>
-					
+					<div class="employee_info"><strong>HOMAYOUN KHATAMI</strong> :: M.A, B. Eng., CEM, PMP, CMC - LEED AP :: ENERGY EFFICIENCY ENGINEER</div>
+					<br>
 					<p>
 						Homay Khatami is overseeing the CES energy team with specialty in measurement and verification (M&amp;V), energy data analysis, building wide functional performance tests for commissioning, and LEED projects.<br/>
 						<br>

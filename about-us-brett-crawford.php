@@ -27,8 +27,8 @@
 					
 					<img src="img/people/Brett.jpg" style="width: 200px;" class="picture_position" alt="Brett Crawford CES Engineering">
 					
-					<div class="employee_info"><strong>BRETT CRAWFORD</strong> :: P.Eng, LEED AP BD+C :: ASSOCIATE</div>
-					
+					<div class="employee_info"><strong>BRETT CRAWFORD</strong> :: P.Eng, CCP, CPMP, CMVP, LEED AP :: MANAGING PRINCIPAL</div>
+					<br>				
 					<p>
 						Brett Crawford is an intermediate project engineer with specialty in managing and administrating total building systems commissioning projects. As a LEED Accredited Professional with Building Design + Construction specialization, Brett has an in-depth knowledge of total building and LEED commissioning requirements.<br/> 
 						<br>

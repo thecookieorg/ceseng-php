@@ -26,8 +26,8 @@
 					
 					<img src="img/people/nick.jpg" style="width:200px;" class="picture_position" alt="Nick Lazo CES Engineering">
 					
-					<div class="employee_info"><strong>NICK LAZO</strong> ::  :: </div>
-					
+					<div class="employee_info"><strong>NICK LAZO</strong> :: B.Sc :: MECHANICAL DESIGNER</div>
+					<br>
 					<p>
 						
 					</p>

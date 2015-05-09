@@ -26,8 +26,8 @@
 					
 					<img src="img/people/risto.jpg" style="width:200px;" class="picture_position" alt="Risto Basic CES Engineering">
 						
-					<div class="employee_info"><strong>RISTO BASIC</strong> :: P. Eng, LEED AP BD+C :: VICE PRESIDENT</div>
-
+					<div class="employee_info"><strong>RISTO BASIC</strong> :: P. Eng, LEED AP :: VICE PRESIDENT</div>
+					<br>
 					<p>
 						Risto is accomplished, seasoned engineer with a strong background in mechanical and electrical design and construction in commercial, institutional, residential and industrial sector. He successfully managed a number of complex construction and engineering projects and teams.
 						Risto has 20 years of experience. He has specialized in developing customized, value oriented, energy conservation solutions. He has worked directly on energy performance based retrofit projects for many years from feasibility studies, design and implementation, to verification and monitoring of energy savings. He has worked on more than 15 design-built projects with guaranteed energy savings. His significant design, project management and construction experience makes him a valuable member of our team. 

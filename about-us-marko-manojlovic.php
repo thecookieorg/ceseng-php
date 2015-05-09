@@ -26,8 +26,8 @@
 					
 					<img src="img/people/marko.jpg" style="width:200px;" class="picture_position" alt="Marko Manojlovic CES Engineering">
 					
-					<div class="employee_info"><strong>MARKO MANOJLOVIC</strong> :: M.Sc. :: WEB DESIGNER</div>
-				
+					<div class="employee_info"><strong>MARKO MANOJLOVIC</strong> :: M.Sc. :: IT ADMINISTRATOR LEAD</div>
+					<br>				
 					<p>
 						Marko brought over 7 years of Software Engineer experiences to CES Group. Marko's specialities include software development focusing on website and desktop application development.<br/>
 						<br>

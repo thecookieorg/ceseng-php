@@ -1,4 +1,4 @@
-﻿<?php include('includes/head_contact.php'); ?>
+<?php include('includes/head_contact.php'); ?>
     <body>
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
@@ -13,7 +13,7 @@
 			<!-- Example row of columns -->
             <div class="row animated fadeInLeft">
 				<div class="span24 margin_main_container">
-					<img src="img/contact/vancouver-main-contact.png">
+					<img src="img/contact/montreal-contact-page.jpg">
 					<br>
 					<br>
 					<a href="contact-vancouver.php"><img style="width: 25%;" src="img/contact/vancouver-contact.jpg"></a>
@@ -24,12 +24,12 @@
 				</div>
 				<div class="span3 margin_main_container">
 					<img src="img/contact/contact-us-title.png">
-					<h3 class="contact_page">VANCOUVER</h3>
-					<p>402 - 4601 Canada Way</p>
-					<p>Burnaby, BC, Canada, V5G 4X7</p>
-					<p>Tel: 604.221.8715</p>
-					<p>Fax: 604.221.8714</p>
-					<p><a href="mailto:info@cesgroup.ca">EMAIL VANCOUVER</a></p>
+					<h3 class="contact_page">MONTREAL</h3>
+					<p>410 St. Nicolas, Suite 236</p>
+					<P>Montreal QC, H2Y 2P5</P>
+					<p>Tel: 514.907.9016 Ext 131</p>
+					<p>Fax: 514.907.9017</p>
+					<p><a href="mailto:info@cesgroup.ca">EMAIL MONTREAL</a></p>
 					<p><a href="http://cesgroup.ca">WWW.CESGROUP.CA</a></p>
 					<p><a href="http://cesengineering.ca">WWW.CESENGINEERING.CA</a></p>
 					<p><a href="http://ecoopera.ca">WWW.ECOOPERA.CA</a></p>

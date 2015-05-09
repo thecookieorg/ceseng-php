@@ -26,8 +26,8 @@
 					
 					<img src="img/people/rob.jpg" style="width:200px;" class="picture_position" alt="Robin Donovan CES Engineering">
 						
-					<div class="employee_info"><strong>ROBIN DONOVAN</strong> :: ::</div>
-					
+					<div class="employee_info"><strong>ROBIN DONOVAN</strong> :: A.Sc.T. :: COMMISSIONING TECHNICIAN</div>
+					<br>
 					<p>
 						Robin Donovan is a graduate of Energy Systems Engineering Technologist program at St. Lawrence College in Kingston, Ontario. He has over three years experience as a Building Commissioning Agent who oversaw completion of the ATESS Refinishing Facility at CFB Trenton Prior to joining CES Group, Robin was involved in designing renewable energy systems at a leading energy design firm in Eastern Ontario. 
 					</p>

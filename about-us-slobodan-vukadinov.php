@@ -27,7 +27,7 @@
 					<img src="img/people/sloba.jpg" style="width:200px;" class="picture_position" alt="Slobodan Vukadinov CES Engineering">
 					
 					<div class="employee_info"><strong>SLOBODAN VUKADINOV</strong> :: M.Sc. in E.E. :: VICE PRESIDENT</div>
-					
+					<br>
 					<p>
 						Slobodan Vukadinov is the primary system and software architect of the company’s energy management software system and the leader of the company’s software operations. <br/> 
 						<br/>

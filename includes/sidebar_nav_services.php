@@ -19,9 +19,16 @@
 							 <li class='last'><a href='./services-decon-chambers.php'><span>Decon Chambers</span></a></li>
 						  </ul>
 					   </li>
+					   <li class='has-sub'><a href='#'><span>MEP Design Services</span></a>
+						  <ul>
+							 <li><a href='./services-retrofit-design.php'><span>Retrofit Design</span></a></li>
+							 <li><a href='./services-new-constriction-design.php'><span>New Construction Design</span></a></li>
+							 <li class='last'><a href='./services-design-build-projects.php'><span>Design Build Projects</span></a></li>
+						  </ul>
+					   </li>
 					   <li class='has-sub'><a href='#'><span>Measurement and Verification</span></a>
 						  <ul>
-							 <li><a href='./services-retrofit-m-and-v-option-b.php'><span>Retrofit M&V - IPMVP Option B</span></a></li>
+							 <li><a href='./services-retrofit-m-and-v-option-b.php'><span>Retrofit M&amp;V - IPMVP Option B</span></a></li>
 							 <li><a href='./services-whole-building-option-c.php'><span>Whole Building - IPMVP Option C</span></a></li>
 							 <li class='last'><a href='./services-whole-building.php'><span>Whole Building Simulated Calibration - Option D</span></a></li>
 						  </ul>
@@ -35,18 +42,20 @@
 							 <li class='last'><a href='./services-real-vs-estimated-energy.php'><span>Real versus Estimated Energy Consumption</span></a></li>
 						  </ul>
 					   </li>
-					   <li class='has-sub'><a href='#'><span>Continuous Optimization</span></a>
+					   <li class='has-sub'><a href='#'><span>Ongoing Commissioning</span></a>
 						  <ul>
 							 <li><a href='./services-continuous-optimization-inner.php'><span>Continuous Optimization</span></a></li>
 							 <li class='last'><a href='./services-monitoring-based-commissioning.php'><span>Monitoring Based Commissioning</span></a></li>
 						  </ul>
 					   </li>
 					   <li><a href='./services-energy-management-information-system.php'><span>EMIS</span></a></li>
-					   <li class='has-sub'><a href='#'><span>MEP Design Services</span></a>
+					   <li class='has-sub'><a href='#'><span>Asset Management &amp; Maintenance</span></a>
 						  <ul>
-							 <li><a href='./services-retrofit-design.php'><span>Retrofit Design</span></a></li>
-							 <li><a href='./services-new-constriction-design.php'><span>New Construction Design</span></a></li>
-							 <li class='last'><a href='./services-design-build-projects.php'><span>Design Build Projects</span></a></li>
+							 <li><a href='./services-asset-maintenance.php'><span>Asset Maintenance</span></a></li>
+							 <li><a href='./services-building-and-building-life-cycle.php'><span>Building and Building System Life Cycles</span></a></li>
+							 <li><a href='./services-kpi-evaluation-of-conditions.php'><span>KPI - Evaluation of Conditions</span></a></li>
+							 <li><a href='./services-documentation-and-corporate-memory.php'><span>Documentation and Corporate Memory</span></a></li>
+							 <li class='last'><a href='./services-technology-asset-management-and-performance-indices.php'><span>Technology - Asset Management and Performance Indices</span></a></li>
 						  </ul>
 					   </li>
 					   <li class='has-sub last'><a href='#'><span>Sustainability Management </span></a>

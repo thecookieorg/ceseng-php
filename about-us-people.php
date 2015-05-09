@@ -17,7 +17,7 @@
 							<img src="img/people/Boban.jpg" />
 							<h4>Boban Ratkovich</h4>
 							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
@@ -25,7 +25,7 @@
 							<img src="img/people/Risto.jpg" />
 							<h4>Risto Basic</h4>
 							<p>VICE PRESIDENT<br/>
-							<span style="font-size: 10px;">P. Eng, LEED AP BD+C</span></p>
+							<span style="font-size: 10px;">P. Eng, LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
@@ -40,8 +40,8 @@
 						<a href="about-us-brett-crawford.php">
 							<img src="img/people/Brett.jpg" />
 							<h4>Brett Crawford</h4>
-							<p>ASSOCIATE<br/>
-							<span style="font-size: 10px;">P.Eng, LEED AP BD+C</span></p>
+							<p>MANAGING PRINCIPAL<br/>
+							<span style="font-size: 10px;">P.Eng, CCP, CPMP, CMVP, LEED AP</span></p>
 						</a>
 					</div>
 				</div>
@@ -50,65 +50,65 @@
 						<a href="about-us-kyle-bigourdin.php">
 							<img src="img/people/kyle.jpg" />
 							<h4>Kyle Bigourdin</h4>
-							<p>ASSOCIATE<br/>
-							<span style="font-size: 10px;">P.Eng., CMVP, LEED AP BD+C</span></p>
+							<p>PRINCIPAL<br/>
+							<span style="font-size: 10px;">P.Eng., CMVP, CPMP, LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-aca-visnjic.php">
 							<img src="img/people/atza.jpg" />
 							<h4>Atza Visnjic</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>BUSINESS ADMINISTRATION MANAGER,
+							<span style="font-size: 10px;">M. Arts</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-gilles-provencher.php">
 							<img src="img/people/gilles.jpg" />
 							<h4>Gilles Provencher</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>BUSINESS DEVELOPMENT MANAGER,
+							<span style="font-size: 10px;">B.Sc</span></p>
+						</a>
+					</div>
+					<div class="span3 margin_main_container">
+						<a href="about-us-drasko-rapaic.php">
+							<img src="img/people/drasko.jpg" />
+							<h4>Drasko Rapaic</h4>
+							<p>SITE SERVICES MANAGER<br/>
+							<span style="font-size: 10px;">M. Sc</span></p>
+						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span3 margin_main_container">
+						<a href="about-us-homayoun-khatami.php">
+							<img src="img/people/homay.jpg" />
+							<h4>Homayoun Khatami</h4>
+							<p>SENIOR ENERGY ENGINEER<br/>
+							<span style="font-size: 10px;">P.Eng., CEM, PMP, CMVP, CMC, LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-mitchell-leckner.php">
 							<img src="img/people/mitchel.jpg" />
 							<h4>Mitchel Leckner</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
-						</a>
-					</div>
-				</div>
-				<div class="row">
-					<div class="span3 margin_main_container">
-						<a href="about-us-drasko-rapaic.php">
-							<img src="img/people/drasko.jpg" />
-							<h4>Drasko Rapaic</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
-						</a>
-					</div>
-					<div class="span3 margin_main_container">
-						<a href="about-us-homayoun-khatami.php">
-							<img src="img/people/homay.jpg" />
-							<h4>Homayoun Khatami</h4>
-							<p>ASSOCIATE<br/>
-							<span style="font-size: 10px;">P.Eng., CEM, PMP, CMVP, CMC, LEED AP</span></p>
+							<p>MECHANICAL ENGINEER<br/>
+							<span style="font-size: 10px;">M. Sc, P. Eng.</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-steven-quan.php">
 							<img src="img/people/steve.jpg" />
 							<h4>Steven Quan</h4>
-							<p>ENGINEERING ASSISTANT<br/>
-							<span style="font-size: 10px;">BASc, E.I.T.</span></p>
+							<p>COMMISSIONING ENGINEER<br/>
+							<span style="font-size: 10px;">B.Sc, E.I.T. LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-daniel-alfonso-ponte.php">
 							<img src="img/people/daniel.jpg" />
 							<h4>Daniel Alfonso</h4>
-							<p>ENGINEER<br/>
+							<p>ENERGY SYSTEMS ENGINEER<br/>
 							<span style="font-size: 10px;">B.Sc. Mech . Eng.</span></p>
 						</a>
 					</div>
@@ -119,32 +119,32 @@
 						<a href="about-us-johnson-shen.php">
 							<img src="img/people/johnson.jpg" />
 							<h4>Johnson Shen</h4>
-							<p>ENERGY MODELLER<br/>
-							<span style="font-size: 10px;">BASc, EIT</span></p>
+							<p>ENERGY SYSTEMS ENGINEER<br/>
+							<span style="font-size: 10px;">B.Sc, EIT</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-laurence-kao.php">
 							<img src="img/people/laurence.jpg" />
 							<h4>Laurence Kao</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>ENERGY SYSTEMS ENGINEER<br/>
+							<span style="font-size: 10px;">B.Sc, E.I.T., LEED AP</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-ali-safi.php">
 							<img src="img/people/ali.jpg" />
 							<h4>Ali Safi</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>COMMISSIONING ENGINEER<br/>
+							<span style="font-size: 10px;">B.Sc</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-robin-donovan.php">
 							<img src="img/people/rob.jpg" />
 							<h4>Robin Donovan</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>COMMISSIONING TECHNICIAN<br/>
+							<span style="font-size: 10px;">A.Sc.T.</span></p>
 						</a>
 					</div>
 				</div>
@@ -153,23 +153,23 @@
 						<a href="about-us-roy-xu.php">
 							<img src="img/people/roy.jpg" />
 							<h4>Roy Xu</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>COMMISSIONING MANAGER<br/>
+							<span style="font-size: 10px;">B. Arts</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-nick-lazo.php">
 							<img src="img/people/nick.jpg" />
 							<h4>Nick Lazo</h4>
-							<p>PRESIDENT<br/>
-							<span style="font-size: 10px;">M. Sc, P. Eng. CEM, BESA, LEED AP ID+C</span></p>
+							<p>MECHANICAL DESIGNER<br/>
+							<span style="font-size: 10px;">B.Sc</span></p>
 						</a>
 					</div>
 					<div class="span3 margin_main_container">
 						<a href="about-us-marko-manojlovic.php">
 							<img src="img/people/marko.jpg" />
 							<h4>Marko Manojlovic</h4>
-							<p>WEB DEVELOPER<br/>
+							<p>IT ADMINISTRATOR LEAD<br/>
 							<span style="font-size: 10px;">M.Sc.</span></p>
 						</a>
 					</div>

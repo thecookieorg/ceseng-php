@@ -27,7 +27,8 @@
 						
 					<img src="img/people/boban.jpg" style="width: 200px;" class="picture_position" alt="Boban Ratkovich CES Engineering">
 					
-					<div class="employee_info"><strong>BOBAN RATKOVICH</strong> :: M. Sc, P. Eng. CEM, BESA, LEED AP ID+C :: PRESIDENT</div>
+					<div class="employee_info"><strong>BOBAN RATKOVICH</strong> :: M. Sc, P. Eng. CEM, BESA, LEED AP :: PRESIDENT</div>
+					<br>
 					<p>
 						Boban Ratkovich is the Principal of CES Engineering Ltd. He is a Registered Professional Engineer in BC and LEED Accredited Professional. Boban is also Certified Energy Manager and Certified Building Energy Simulation Analyst under American Association of Energy Engineers.<br/>
 						<br>

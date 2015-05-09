@@ -26,8 +26,8 @@
 					
 					<img src="img/people/steve.jpg" style="width:200px;" class="picture_position" alt="Steven Quan CES Engineering">
 							
-					<div class="employee_info"><strong>STEVEN QUAN</strong> :: BASc, E.I.T. :: ENGINEERING ASSISTANT</div>
-					
+					<div class="employee_info"><strong>STEVEN QUAN</strong> :: B.Sc, E.I.T. LEED AP :: COMMISSIONING ENGINEER</div>
+					<br>
 					<p>
 						Steven Quan is a recent graduate and engineering assistant with CES Engineering. He has completed his Bachelor of Applied Science in Mechanical Engineering studying the Mechatronics option at the University of British Columbia. 
 					</p>

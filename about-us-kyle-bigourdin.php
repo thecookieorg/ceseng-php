@@ -26,8 +26,8 @@
 					
 					<img src="img/people/kyle.jpg" style="width:200px;" class="picture_position" alt="Kyle Bigourdin CES Engineering">
 					
-					<div class="employee_info"><strong>KYLE BIGOURDIN</strong> :: P.Eng., CMVP, LEED AP BD+C :: ASSOCIATE</div>
-					
+					<div class="employee_info"><strong>KYLE BIGOURDIN</strong> :: P.Eng., CMVP, CPMP, LEED AP :: PRINCIPAL</div>
+					<br>
 					<p>
 						Kyle Bigourdin is a senior project engineer with specialty in managing and administrating 
 						the building systems commissioning process. 

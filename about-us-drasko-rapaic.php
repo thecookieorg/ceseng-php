@@ -26,9 +26,18 @@
 										
 					<img src="img/people/drasko.jpg" style="width:200px;" class="picture_position" alt="Drasko Rapaic CES Engineering">
 					
-					<div class="employee_info"><strong>DRASKO RAPAIC</strong> :: Bsc. Eng :: COMMISSIONING OPERATIONS MANAGER</div>
+					<div class="employee_info"><strong>DRASKO RAPAIC</strong> :: M.Sc :: SITE SERVICES MANAGER</div>
+					<br>
 					<p>
+						Drasko Rapaic is a senior project manager engineer with specialty in sustainable design and construction management. Also, Drasko provides design solutions and advice in field of mechanical engineering, energy preservation and ecologically sustainable development.
+					</p>
 						
+					<p>
+						He elevates projects energy efficiency and operational productivity through engineering expertise’s and project/construction management practices. Drasko consolidates building owners and investors, multidisciplinary architectural and engineering teams, different consultants, construction vendors and contractors to achieve the best possible design, energy efficiency and sustainable development.
+					</p>
+						
+					<p>
+						Drasko has extensive international experience of 20 years gained on projects of various types and sizes in Canada, Europe, Russia and Australia. 
 					</p>
                 </div>
 				

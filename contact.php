@@ -17,12 +17,11 @@
 					<img src="img/contact/click-the-city.png">
 			</div>
 				<div class="span25">
-					<img src="img/contact/middle-east-canada.png">
-					<a href="contact-vancouver.php"><img src="img/contact/vancouver-link.png"></a>
-					<a href="contact-calgary.php"><img src="img/contact/calgary-link.png"></a>
-					<a href="contact-toronto.php"><img src="img/contact/toronto-link.png"></a>
-					<img src="img/contact/empty-space2.png">
-					<a href="contact-dubai.php"><img src="img/contact/dubai-link.png"></a>
+					<a href="contact-vancouver.php"><img style="width: 25%;" src="img/contact/vancouver-contact.jpg"></a>
+					<a href="contact-calgary.php"><img style="width: 20%;" src="img/contact/calgary-contact.jpg"></a>
+					<a href="contact-toronto.php"><img style="width: 20%;" src="img/contact/toronto-contact.jpg"></a>
+					<a href="contact-montreal.php"><img style="width: 22%;" src="img/contact/montreal.jpg"></a>
+					<a href="contact-dubai.php"><img style="width: 11%;" src="img/contact/dubai.jpg"></a>
 				</div>
             </div>	
 			

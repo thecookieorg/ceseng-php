@@ -26,8 +26,8 @@
 					
 					<img src="img/people/laurence.jpg" style="width:200px;" class="picture_position" alt="Laurence Kao CES Engineering">
 					
-					<div class="employee_info"><strong>LAURENCE KAO</strong> ::  :: </div>
-		
+					<div class="employee_info"><strong>LAURENCE KAO</strong> :: B.Sc, E.I.T., LEED AP :: ENERGY SYSTEMS ENGINEER</div>
+					<br>
 					<p>
 						Laurence Kao recently obtained his BASc in Mechanical Engineering from UBC.  He is an energy efficiency engineer and works on modeling buildings to generate energy analysis reports as well as evaluate possible improvement measures for buildings.  Most recently, he has worked on developing the necessary documentation and management policies to achieve BOMA BESt certification for eight office buildings.  Prior to his work at CES Engineering, Laurence has worked with the Vancouver School Board in optimizing their DDC programs at numerous schools, as well as with Stantec Consulting as an HVAC system designer.
 					</p>

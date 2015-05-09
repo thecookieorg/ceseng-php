@@ -26,8 +26,8 @@
 					
 					<img src="img/people/johnson.jpg" style="width:200px;" class="picture_position" alt="Johnson Shen CES Engineering">
 					
-					<div class="employee_info"><strong>JOHNSON SHEN</strong> :: BASc, EIT :: ENERGY MODELLER</div>
-					
+					<div class="employee_info"><strong>JOHNSON SHEN</strong> :: B.Sc, EIT :: ENERGY SYSTEMS ENGINEER</div>
+					<br>
 					<p>
 						Johnson Shen is a recent graduate from the University of British Columbia with a Bachelor of Applied Science in Engineering Physics, Mechanical Option. Johnson worked with CES as a junior commissioning agent while on Co-op and is now involved in Energy analysis projects mainly utilizing energy modeling programs such as eQUEST and EE4.
 					</p>

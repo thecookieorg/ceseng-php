@@ -27,8 +27,8 @@
 					
 					<img src="img/people/atza.jpg" style="width:200px;" class="picture_position" alt="Aleksandar Atza Visnjic CES Engineering">
 					
-					<div class="employee_info"><strong>ALEKSANDAR VISNJIC</strong> ::  :: </div>
-					
+					<div class="employee_info"><strong>ALEKSANDAR VISNJIC</strong> :: M. Arts :: BUSINESS ADMINISTRATION MANAGER</div>
+					<br>
 					<p>
 						Atza is an Art Director with 23 years of experience in Graphic Design and Fine Arts. He brings necessary knowledge and mind set for developing visual identity, brand presence of high level of impact, in support of our company’s fast paced growth. <br>
 						<br>

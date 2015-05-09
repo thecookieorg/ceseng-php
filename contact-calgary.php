@@ -14,10 +14,13 @@
             <div class="row animated fadeInLeft">
 				<div class="span24 margin_main_container">
 					<img src="img/contact/calgary-main-contact-pic.png">
-					<a href="contact-vancouver.php"><img src="img/contact/link-to-vancouver-from-calgary.png"></a>
-					<a href="contact-calgary.php"><img src="img/contact/calgary-link-to-page.png"></a>
-					<a href="contact-toronto.php"><img src="img/contact/link-to-toronto-from-calgary.png"></a>
-					<a href="contact-dubai.php"><img src="img/contact/dubai-link-to-page.png"></a>
+					<br>
+					<br>
+					<a href="contact-vancouver.php"><img style="width: 25%;" src="img/contact/vancouver-contact.jpg"></a>
+					<a href="contact-calgary.php"><img style="width: 20%;" src="img/contact/calgary-contact.jpg"></a>
+					<a href="contact-toronto.php"><img style="width: 20%;" src="img/contact/toronto-contact.jpg"></a>
+					<a href="contact-montreal.php"><img style="width: 22%;" src="img/contact/montreal.jpg"></a>
+					<a href="contact-dubai.php"><img style="width: 11%;" src="img/contact/dubai.jpg"></a>
 				</div>
 				<div class="span3 margin_main_container">
 					<img src="img/contact/contact-us-title.png">

@@ -26,10 +26,10 @@
 					
 					<img src="img/people/gilles.jpg" style="width:200px;" class="picture_position" alt="Gilles Provencher CES Engineering">
 					
-					<div class="employee_info"><strong>GILLES PROVENCHER</strong> ::  :: </div>
-				
+					<div class="employee_info"><strong>GILLES PROVENCHER</strong> :: BUSINESS DEVELOPMENT MANAGER :: B.Sc</div>
+					<br>
 					<p>
-						
+						Gilles Provencher has a valuable experience on the national and international market in business and solution development based on partnership, technological and competencies’ transfer. For the past 20 years, Gilles has been dedicated to CMMS, Building Optimization, and Asset Management based on Sustainable Development. He has been implementing on the Quebec market various software dedicated to Building Energy Optimization, FDD (Fault Detection Diagnosis) and Asset Management. He is passionate about creating network sharing know how and experience on Sustainable Development in Building Optimization and Cities’ projects 
 					</p>
                 </div>
 				

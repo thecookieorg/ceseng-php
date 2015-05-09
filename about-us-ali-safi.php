@@ -27,14 +27,14 @@
 					<img src="img/people/ali.jpg" style="width:200px;" class="picture_position" alt="Ali Safi CES Engineering">
 				
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>ALI SAFI</strong> ::  :: </div>
+					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>ALI SAFI</strong> :: B.Sc :: COMMISSIONING ENGINEER</div>
 					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-						
+					<p style="margin-top: 2px;"><br/>
+						s
 					</p>
                 </div>
 				<div class="span16 margin_main_container">
-					<img src="img/people/side-toronto.png" alt="CES Engineering Toronto Office">
+					<img src="img/people/side-vanc.png" alt="CES Engineering Toronto Office">
 				</div>
             </div>	
 			</div>

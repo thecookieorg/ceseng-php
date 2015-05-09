@@ -15,7 +15,7 @@
                 <?php include('includes/sidebar_nav_services.php'); ?>
 				<div class="span8 margin_main_container">
                     <div class="title_bkgd">
-						<h1>building commissioning</h1>
+						<h1>building &amp; industrial commissioning</h1>
 					</div>
 					<img src="img/services/buildingcx-main.png" class="main_picture" alt="Building Commissioning Main Picture">
 						<div class="row animated fadeInLeft" id="margin-top">
@@ -34,7 +34,21 @@
 							<div class="span17">
 								<a href="./services-systems-manuals.php"><img src="img/services/systemmanuals.png" class="opacity" alt="Systems Manuals"></a>
 							</div>
-						</div>					
+						</div>	
+						<div class="row animated fadeInLeft" id="margin-top">
+							<div class="span17">
+								<a href="services-heat-and-power-plant.php"><img src="img/services/heatandpower.png" class="opacity" alt="Heat and Power Plant"></a>
+							</div>
+							<div class="span17">
+								<a href="services-laboratory-high-containment-facilities.php"><img src="img/services/laboratoruhigh.png" class="opacity" alt="Laboratory High COntainment Facilities"></a>
+							</div>
+							<div class="span17">
+								<a href="services-high-voltage-substations.php"><img src="img/services/highvoltage.png" class="opacity" alt="High Voltage Substations"></a>
+							</div>
+							<div class="span17">
+								<a href="services-decon-chambers.php"><img src="img/services/deconchambers.png" class="opacity" alt="Decon Chambers"></a>
+							</div>
+						</div>				
                 </div>
             </div>	
 			</div>

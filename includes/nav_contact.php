@@ -24,12 +24,12 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="./services-building-commissioning.php">Building &amp; Industrial Commissioning</a></li>
-                                    <li><a href="./services-industrial-commissioning.php">Industrial Commissioning</a></li>
+                                    <li><a href="./services-mep-design-services.php">MEP Design Services</a></li>
                                     <li><a href="./services-measurement-and-verification.php">Measurement and Verification</a></li>
                                     <li><a href="./services-energy-performance.php">Energy Performance</a></li>
-                                    <li><a href="./services-continuous-optimization.php">Continuous Optimization</a></li>
+                                    <li><a href="./services-continuous-optimization.php">Ongoing Commissioning</a></li>
                                     <!--<li><a href="./services-energy-management-information-system.php">Energy Management Information System</a></li>-->
-                                    <li><a href="./services-mep-design-services.php">MEP Design Services</a></li>
+                                    <li><a href="./services-asset-management-and-maintenance.php">Asset Management &amp; Maintenance</a></li>
                                     <li><a href="./services-sustainability-management.php">Sustainability Management</a></li>
                                     <!--<li><a href="./services-laboratory-containment-facilities.php">Laboratory Containment Facilities</a></li>-->
                                 </ul>

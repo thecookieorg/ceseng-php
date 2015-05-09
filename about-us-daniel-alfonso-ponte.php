@@ -26,8 +26,8 @@
 					
 					<img src="img/people/daniel.jpg" style="width:200px;" class="picture_position" alt="Daniel Alfonso CES Engineering">
 					
-					<div class="employee_info"><strong>DANIEL ALFONSO PONTE</strong> :: B.Sc. Mech . Eng. :: ENGINEER</div>
-					
+					<div class="employee_info"><strong>DANIEL ALFONSO PONTE</strong> :: B.Sc. Mech . Eng. :: ENERGY SYSTEMS ENGINEER</div>
+					<br>
 					<p>
 						Daniel Alfonso Ponte is an intermediate project engineer with specialty in building energy data analysis. Daniel specialties include methods for modeling building energy systems, heat transfer processes, creating whole-building energy models using a variety of software programs (EE4, HAP, eQUEST, EnergyPlus, RETScreen) to estimate the energy performance of newly constructed buildings, modeling-assisted Life-Cycle Analysis (LCA) of building energy efficiency measures and creating calibrated energy models of existing buildings based on monitored data, verifying building performance and identifying opportunities for improvement in building performance. 
 					</p>
